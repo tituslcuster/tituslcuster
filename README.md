@@ -4,7 +4,7 @@
 - 💞️ I love coffee and watching Overwatch league with friends
 - 📫 How to reach me: 
   -   Email: tituslcuster@gmail.com
-  -   [LinkedIn](linkedin.com/in/tituslcuster)
+  -   [LinkedIn](https://www.linkedin.com/in/tituslcuster/)
 
 <!---
 tituslcuster/tituslcuster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
