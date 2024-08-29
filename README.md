@@ -1,7 +1,7 @@
 - 👋 Hey there! I’m @tituslcuster
 - 👀 I’m interested in **data analytics** and **data visualization**
-- 🎥 I’m currently refining a data presentation for YouTube!
-- 💞️ I love coffee and watching Overwatch league with friends
+- 🕸️ I’m currently learning HTML!
+- 💞️ I love coffee and gardening!
 - 📫 How to reach me: 
   -   Email: tituslcuster@gmail.com
   -   [LinkedIn](https://www.linkedin.com/in/tituslcuster/)
